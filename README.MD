@@ -4,5 +4,5 @@ Construção de um serviço que responde a uma requisição GET retornando um JS
 
 ## O resumo contendo a primeira parte da atividade está no arquivo resumo.pdf
 
-## A descrição do app está em
+## A descrição do app está no próprio código.
 
